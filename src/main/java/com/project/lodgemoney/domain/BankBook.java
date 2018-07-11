@@ -2,7 +2,12 @@ package com.project.lodgemoney.domain;
 
 public class BankBook {
 
-    int Total;
+
+    int total;
+
+
+    boolean deposit;
+
 
 
 }

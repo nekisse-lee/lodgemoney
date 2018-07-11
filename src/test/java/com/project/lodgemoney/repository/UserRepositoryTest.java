@@ -24,9 +24,9 @@ public class UserRepositoryTest {
 
     @Test
     public void save() throws Exception {
-        User user = new User("nekisse", "nekisse", "lee");
-        userRepository.save(user);
-
-        userRepository.delete(user.getId());
+//        User user = new User("nekisse", "nekisse", "lee");
+//        userRepository.save(user);
+//
+//        userRepository.delete(user.getId());
     }
 }
